@@ -18,9 +18,9 @@ This archive aims to preserve knowledge of these assets through photographs, rat
 
 ### J&P Type ME 100/160A Dual-Rated HRC Fuse
 
-![J&P Type JPU Fuse](Dual Fuse 1.jpg)
+![J&P Type JPU Fuse](Dual Fuse 1.png)
 
-![J&P Type JPU Fuse - Close Up](Dual fuse 2.jpg)
+![J&P Type JPU Fuse - Close Up](Dual fuse 2.png)
 
 **Why Dual-Rated?**
 
