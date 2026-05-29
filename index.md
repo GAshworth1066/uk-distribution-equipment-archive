@@ -15,3 +15,13 @@ This archive aims to preserve knowledge of these assets through photographs, rat
 ### [J&P Type ME 100/160A Dual-Rated HRC Fuse](jp-type-me-100-160a-dual-rated-fuse.html)
 
 Legacy dual-rated service fuse commonly found in UK electricity distribution networks and service cut-outs.
+
+---
+
+## Disclaimer
+
+This archive is intended for educational and equipment identification purposes only.
+
+All photographs are the author's own unless otherwise stated. Any site-specific, customer-specific, or security-sensitive information has been omitted.
+
+Equipment should only be inspected, maintained, or operated by suitably competent persons in accordance with applicable regulations and procedures.
