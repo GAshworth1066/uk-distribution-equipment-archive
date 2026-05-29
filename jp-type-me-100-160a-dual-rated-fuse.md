@@ -6,11 +6,11 @@ The J&P Type ME 100/160A fuse is a legacy dual-rated HRC service fuse commonly f
 
 ## Photographs
 
-![J\&P Type ME 100/160A Dual-Rated HRC Fuse](YOUR-FIRST-IMAGE.jpg)
+![J\&P Type ME 100/160A Dual-Rated HRC Fuse](Dual Fuse 1.png)
 
-*Figure 1: J&P Type ME 100/160A dual-rated HRC service fuse removed from carrier.*
+*Figure 1: J&P Type ME 100/160A dual-rated HRC service fuse removed from cutout.*
 
-![Fuse Rating Markings](YOUR-SECOND-IMAGE.jpg)
+![Fuse Rating Markings](Dual Fuse 2.png)
 
 *Figure 2: Manufacturer and rating markings showing the Type ME 100/160A designation.*
 
